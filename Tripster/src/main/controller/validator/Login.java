@@ -5,12 +5,12 @@
 
 package main.controller.validator;
 
-import com.crave.model.main.Mysqlconn;
-
 import java.io.PrintStream;
 import java.sql.*;
 
 import javax.servlet.http.HttpServletRequest;
+
+import main.model.connection.Mysqlconn;
 
 public class Login
 {
