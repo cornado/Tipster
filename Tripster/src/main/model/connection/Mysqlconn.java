@@ -3,7 +3,7 @@
 // Decompiler options: packimports(3) 
 // Source File Name:   Mysqlconn.java
 
-package com.crave.model.main;
+package main.model.connection;
 
 import java.io.PrintStream;
 import java.sql.*;

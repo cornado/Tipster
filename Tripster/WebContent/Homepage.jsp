@@ -46,7 +46,7 @@ function mark(){
 <title>Tripster</title>
 </head>
 <body>
-<H1>Welcome  <%= message %>  </H1>
+<H1>Welcome mr best of the west <%= message %>  </H1>
 <br>
 <div id="theDivElement" contenteditable="true" placeholder="My Placeholder String" >
 </div>
